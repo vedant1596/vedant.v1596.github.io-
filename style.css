@@ -1,0 +1,16 @@
+.borderbox {
+    border-width: 2px;
+    border-color: black;
+    border-style: dotted;
+}
+.text {
+    color: blue;
+
+}
+.greenline {
+    color: green;
+}
+
+.frog {
+    float: left;d
+}
